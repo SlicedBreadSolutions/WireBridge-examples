@@ -1,1 +1,1 @@
-# An API written in PowerBASIC
+A Wire Bridge API written in PowerBASIC
